@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/violet_k/Documents/GitHub/Journey/annotion_a/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e72f3b86259684bec8d1b9d05402133d31e00445">
+        <dex dex="/Users/violet_k/Documents/GitHub/Journey/app/build/intermediates/pre-dexed/debug/classes_4ad39e4fe551212996783e00f5c26391933ed3c0.jar" />
+    </item>
+
+</items>

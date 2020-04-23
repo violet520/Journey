@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/violet_k/Documents/GitHub/Journey/annotion_a/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/violet_k/.android/build-cache/6c96fe36748922ad1d7972e6ff7fe89f4022b1df/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/violet_k/Documents/GitHub/Journey/annotion_a/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/violet_k/.android/build-cache/6c96fe36748922ad1d7972e6ff7fe89f4022b1df/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/violet_k/Documents/GitHub/Journey/annotion_a/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/violet_k/.android/build-cache/6c96fe36748922ad1d7972e6ff7fe89f4022b1df/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/violet_k/Documents/GitHub/Journey/annotion_a/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/violet_k/.android/build-cache/6c96fe36748922ad1d7972e6ff7fe89f4022b1df/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

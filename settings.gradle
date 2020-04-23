@@ -1,0 +1,2 @@
+include ':app', ':annotion_a', ':annotion_compile'
+rootProject.name='VK'
